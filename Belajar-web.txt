@@ -1,0 +1,10 @@
+Belajar web!
+
+Membuat web dengan menggunakan vscode.
+apa itu vscode?
+
+Visual Studio Code adalah editor kode sumber gratis yang dibuat oleh Microsoft untuk Windows, Linux, dan macOS.
+Coding yang ada dalam vscode ini juga mendukung bahasa pemrograman C# dan mampu menunjang bahasa program yang lebih banyak. 
+Termasuk adanya perintah spesial yang dapat menavigasi antara fitur satu dengan fitur lainnya.
+Sehingga, aplikasi coding ini bisa memudahkan programmer,
+karena mereka meneliti dan mencari sendiri kesalahan pada barisan code dengan mengintegrasi Git dan debugging.
